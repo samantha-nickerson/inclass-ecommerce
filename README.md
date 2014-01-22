@@ -1,4 +1,4 @@
 inclass-ecommerce
 =================
 
-In class demo of ecommerce site
+A demonstration repo for in class ecommerce website design system.
