@@ -1,12 +1,3 @@
-<p>markdown: redcarpet</p>
-<p>baseurl: /inclass-ecommerce</p>
-<!doctype html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Untitled Document</title>
-</head>
+markdown: redcarpet
+baseurl: /inclass-ecommerce
 
-<body>
-</body>
-</html>
